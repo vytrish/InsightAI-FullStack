@@ -34,7 +34,7 @@ import {
   Cell,
 } from "recharts";
 
-const API_BASE = "https://insight-ai-full-stack.vercel.app";
+const API_BASE = "https://insightai-fullstack.onrender.com";
 
 interface SummaryMetrics {
   total_rows: number;
