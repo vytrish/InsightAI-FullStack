@@ -34,7 +34,7 @@ import {
   Cell,
 } from "recharts";
 
-const API_BASE = "https://insightai-fullstack.onrender.com";
+const API_BASE = "";
 
 interface SummaryMetrics {
   total_rows: number;
